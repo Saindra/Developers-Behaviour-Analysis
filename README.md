@@ -28,7 +28,7 @@ For this project, I was interestested in using Stack Overflow developer survey 2
 
 ## File Descriptions <a name="files"></a>
 
-Inside the 'Developer-Behaviour' folder there are 3 notebooks available to showcase work related to the above questions. I could not put the dataset file in the git repository as it's size is large. But, I provided the data set link at the bottom of the page here to download. 
+In this repository, there are 3 .ipynb files available to showcase work related to the above questions. I could not put the dataset file in the git repository as it's size is large. But, I provided the data set link at the bottom of the page here to download. The dataset csv file needs to be in the same folder where the .ipynb files are there.
  
 
 ## Results<a name="results"></a>
