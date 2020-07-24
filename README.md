@@ -11,7 +11,7 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-Incase if Anaconda distribution is not installed, then to be able to run these notebooks, the following libraries needs to be installed on the top of python:
+If Anaconda distribution is not installed, then to be able to run these notebooks, the following libraries needs to be installed on the top of python:
 1. Pandas
 2. Seaborn
 3. Matplotlib
@@ -33,7 +33,7 @@ In this repository, there are 3 .ipynb files available to showcase work related 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the medium blog post available [here]().
+The main findings of the code can be found at the medium blog post available here! https://medium.com/walmartlabs/developers-behaviour-from-datascience-perspective-1b25376b2839.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
